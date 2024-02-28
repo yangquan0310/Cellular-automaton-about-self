@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-'细胞自动机'
-
-__author__ = 'Little Huang'
-
 import random
 import threading
 import functools

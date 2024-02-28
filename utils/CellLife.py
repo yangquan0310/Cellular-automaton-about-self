@@ -1,7 +1,8 @@
-import random
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import threading
 import time
-import functools
 from tkinter import *
 
 # 线程
